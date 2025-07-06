@@ -1,0 +1,1 @@
+// JSX for all characters page
